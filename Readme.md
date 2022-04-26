@@ -16,4 +16,3 @@
 - Get the latest code from the parent repo and merge : `git pull upstream main`
 
 - You can start working on your task.
-
